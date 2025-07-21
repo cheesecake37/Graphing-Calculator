@@ -1,0 +1,17 @@
+src/ui/Main.java
+src/ui/FunctionPlotterGUI.java
+src/ui/ZoomablePlotPanel.java
+src/util/ColorUtil.java
+src/util/SVGExporter.java
+src/solver/IntersectionFinder.java
+src/solver/InflectionFinder.java
+src/solver/DerivativeSolver.java
+src/solver/IntegrationSolver.java
+src/solver/ExtremaFinder.java
+src/parser/FunctionParser.java
+src/functions/ExponentialFunction.java
+src/functions/LogarithmicFunction.java
+src/functions/StepFunction.java
+src/functions/TrigFunction.java
+src/functions/Function.java
+src/functions/PolynomialFunction.java
